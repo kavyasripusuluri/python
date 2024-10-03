@@ -1,0 +1,47 @@
+#tuple
+#thistuple = ("apple", "grapes", "banana")
+#print(thistuple)
+#length of tuple
+#thistuple = ("apple", "grapes", "banana")
+#print(len(thistuple))
+#type() of the tuple
+#thistuple = ("apple", "grapes", "banana","apple", "banana",)
+#print(type(thistuple))
+#with tuple() and comma
+#thistuple = ("apple",)
+#print(type(thistuple))
+#with tuple() and without comma it prints str
+#thistuple = ("apple")
+#print(type(thistuple))
+#it can print any elements
+#a = (1,2,3,4,5)
+#b = ("TIGER","RAT")
+#c = (True, False, True, False)
+#print(a)
+#print(b)
+#print(c)
+#a = tuple((1, "hi", 3.5, True))
+#print(a)
+#access tuple items
+#a = (1, "hi", 3.5, True)
+#print(a[1])
+#negative indexing
+#a = (1, "hi", 3.5, True)
+#print(a[-1])
+#a = (1,"hi",3.5,True)
+#print(a[0:2])
+#a = (1, "hi", 3.5, True)
+#print(a[2:])
+#a = (1, "hi", 3.5, True, 3, 5, "mony")
+# print(a[-4:-2])
+#thistuple =  ("apple", "grapes", "banana","apple", "banana",)
+#if "apple" in thistuple:
+  #print("Yes, 'apple' is in the fruits tuple")
+  #change tuple values
+x = ("hi", "more")
+y = list(x)
+y[0] = "mani"
+x = tuple(y)
+print(x)
+
+
