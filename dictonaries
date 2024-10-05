@@ -1,0 +1,48 @@
+#thisdict =	{
+ # "brand": "Ford",
+  #"model": "Mustang",
+  #"year": 1964
+#}
+#print(thisdict)
+#dictonaries items
+#thisdict = {
+#  "brand": "Ford",
+ # "model": "Mustang",
+ # "year": 1964
+#}
+#print(thisdict["brand"])
+#duplicate not allowed
+#thisdict = {
+ # "brand": "Ford",
+  #"model": "Mustang",
+  #"year": 1964,
+  #"year": 2020
+#}
+#print(thisdict)
+#length of the dictonaries
+#thisdict = {
+  #"brand": "Ford",
+  #"model": "Mustang",
+  #"year": 1964,
+ # "year": 2020
+#}
+#print(len(thisdict))
+#dictonaries items- datatypes
+#thisdict = {
+ # "brand": "Ford",
+  #"electric": False,
+  #"year": 1964,
+  #"colors": ["red", "white", "blue"]
+
+#}
+
+#print(thisdict)
+#type()
+#thisdict = {
+ # "brand": "Ford",
+ # "electric": False,
+ # "year": 1964
+  
+#}
+
+#print(type(thisdict))
